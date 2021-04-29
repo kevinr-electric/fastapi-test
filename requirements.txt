@@ -1,0 +1,17 @@
+# Gemfury repo
+--extra-index-url https://repo.fury.io/${FURY_AUTH}/electric/
+
+# Web framework
+fastapi==0.63.0
+
+# Runtime type-hints
+pydantic==1.7.3
+
+# ASGI Server
+uvicorn==0.13.3
+
+# Static type-hint check
+mypy==0.800
+
+# formatting
+black==20.8b1
